@@ -1,6 +1,8 @@
 {
   "name": "CS11 Python (Sem2)",
-  "image": "mcr.microsoft.com/devcontainers/python:1-3.12-bookworm",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
   "features": {
     // Virtual desktop so tkinter windows can be viewed in a browser tab (port 6080)
     "ghcr.io/devcontainers/features/desktop-lite:1": {
