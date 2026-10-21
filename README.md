@@ -13,7 +13,7 @@ python test_setup.py
 ```
 or open a `.py` file and click the play button at the top-right.
 
-## Seeing GUI (tkinter) windows - Lessons 3 & 4
+## Seeing GUI (tkinter) windows
 1. Open the **Ports** tab (next to Terminal).
 2. On the row **GUI Desktop (port 6080)**, click the globe icon to open it in a new browser tab.
 3. Click **Connect** and enter the password: `vscode`
