@@ -1,0 +1,5 @@
+{
+  // Run each file from its own folder (like Replit), so files such as
+  // weatherLog.txt are created next to the .py file, not in the project root.
+  "python.terminal.executeInFileDir": true
+}
